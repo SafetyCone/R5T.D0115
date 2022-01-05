@@ -1,3 +1,5 @@
 R5T.D0115.Base - Service definitions for IPathOperator and other related services.
 
-GOALS:
+Design principles:
+
+* Directory paths are directory indicated.

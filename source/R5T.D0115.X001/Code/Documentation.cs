@@ -1,10 +1,10 @@
 using System;
 
 
-namespace R5T.D0115
+namespace R5T.D0115.X001
 {
     /// <summary>
-    /// IPathOperator and other related services (synchronous, stringly-typed).
+    /// Basic extensions.
     /// </summary>
     public static class Documentation
     {

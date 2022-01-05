@@ -1,3 +1,5 @@
 R5T.D0115.I001 - Default implementation for IPathOperator and other related services..
 
-GOALS:
+Design:
+
+* Service implementations are just wrappers around extension method base extensions.
